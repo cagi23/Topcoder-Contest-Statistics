@@ -2,29 +2,76 @@
   "challenges": [
     {
       "year": 2024,
+      "gennaio": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": ["", ""],
+          "typeOfContest": ["", ""]
+        }
+      ],
+      "febbraio": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": ["", ""],
+          "typeOfContest": ["", ""]
+        }
+      ],
+      "marzo": [
+        {
+          "numberOfContests": 5,
+          "technologyInvolved": ["python", "flask"],
+          "typeOfContest": ["fullstack app", ""],
+          "importantContest": [
+            "https://community.topcrowd.net/challenge/view/yoN_NC_Vmo25FI?_gl=1*15wkt70*_ga*MTg3MjI2OTQwMC4xNzIyMzMxMDI5*_ga_ZYJTERS9DX*MTcyOTUyMzMzMy44Ny4xLjE3Mjk1MjM0NjguNTIuMC4w"
+          ]
+        }
+      ],
+      "aprile": [
+        {
+          "numberOfContests": 3,
+          "technologyInvolved": ["", ""],
+          "typeOfContest": ["", ""]
+        }
+      ],
+      "maggio": [
+        {
+          "numberOfContests": 10,
+          "technologyInvolved": ["angular", "java", "flutter"],
+          "typeOfContest": ["prototype-conversion"]
+        }
+      ],
       "giugno": [
         {
           "numberOfContests": 14,
-          "technologyInvolved": ["typescript", "angular", "Node.js"],
+          "technologyInvolved": [
+            "typescript",
+            "angular",
+            "Node.js"
+          ],
           "typeOfContest": [
             {
               "angular workflow designer": 1,
               "angular prototype conversion": 2,
               "RESTful APIs": 1
-            },
-            {
-
             }
-            ],
+          ],
           "importantContest": [
             "https://app.topcoder.com/work/Sm4p6BR8u3cMj0/talent-routes/details"
           ]
         }
       ],
+      "luglio": [
+        {
+        "numberOfContests": 0,
+          "technologyInvolved": []
+        }
+      ],
       "january": [
         {
           "numberOfContests": 0,
-          "technologyInvolved": ["typescript"],
+          "technologyInvolved": [
+            "typescript"
+          ],
           "typeOfContest": "Starter-Boilerplate"
         }
       ],
@@ -39,8 +86,5 @@
         }
       ]
     }
-
-
-
   ]
 }
