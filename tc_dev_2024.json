@@ -1,0 +1,46 @@
+{
+  "challenges": [
+    {
+      "year": 2024,
+      "giugno": [
+        {
+          "numberOfContests": 14,
+          "technologyInvolved": ["typescript", "angular", "Node.js"],
+          "typeOfContest": [
+            {
+              "angular workflow designer": 1,
+              "angular prototype conversion": 2,
+              "RESTful APIs": 1
+            },
+            {
+
+            }
+            ],
+          "importantContest": [
+            "https://app.topcoder.com/work/Sm4p6BR8u3cMj0/talent-routes/details"
+          ]
+        }
+      ],
+      "january": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": ["typescript"],
+          "typeOfContest": "Starter-Boilerplate"
+        }
+      ],
+      "settembre": [
+        {
+          "numberOfContests": 2
+        }
+      ],
+      "ottobre": [
+        {
+          "numberOfContests": 2
+        }
+      ]
+    }
+
+
+
+  ]
+}
