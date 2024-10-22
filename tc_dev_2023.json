@@ -54,59 +54,71 @@
       "maggio": [
         {
           "numberOfContests": 11,
-          "technologyInvolved": ["", "", ""],
-          "typeOfContest": [""]
+          "technologyInvolved": ["java", "", ""],
+          "typeOfContest": ["rapid-development"]
         }
       ],
       "giugno": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 16,
           "technologyInvolved": [
-            "typescript"
+            "java"
           ],
-          "typeOfContest": [
-            {
-              "": 0
-            }
-          ],
-          "importantContest": [
-            ""
-          ]
+          "typeOfContest": ["rapid-development", "code-design","java-service"]
         }
       ],
       "luglio": [
         {
-        "numberOfContests": 0,
-          "technologyInvolved": []
+        "numberOfContests": 13,
+          "technologyInvolved": [
+            "java"
+          ],
+          "typeOfContest": ["rapid-development", "code-design","java-service"]
         }
       ],
       "agosto": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 10,
           "technologyInvolved": [
-            ""
+            "angular", "java"
           ],
-          "typeOfContest": ""
+          "typeOfContest": ["prototype-conversion", "java-service"]
         }
       ],
       "settembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 7,
+          "technologyInvolved": [
+            "angular"
+          ],
+          "typeOfContest": ["prototype-conversion"]
         }
       ],
       "ottobre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 1,
+          "technologyInvolved": [
+            "angular"
+          ],
+          "typeOfContest": ["prototype-conversion"]
         }
       ],
       "novembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 3,
+          "technologyInvolved": [
+            "angular"
+          ],
+          "typeOfContest": ["prototype-conversion"]
         }
       ],
       "dicembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 4,
+          "technologyInvolved": [
+            "react", "angular"
+          ],
+          "typeOfContest": ["prototype-conversion"]
         }
       ]
     }
