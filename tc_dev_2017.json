@@ -1,26 +1,36 @@
 {
   "challenges": [
     {
-      "year": 2021,
+      "year": 2017,
       "gennaio": [
         {
           "numberOfContests": 8,
-          "technologyInvolved": ["react", ""],
-          "typeOfContest": ["skill-builder", "api-development"]
+          "technologyInvolved": [
+            "react",
+            ""
+          ],
+          "typeOfContest": [
+            "skill-builder",
+            "api-development"
+          ]
         }
       ],
       "febbraio": [
         {
-          "numberOfContests": 10,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": [""]
+          "numberOfContests": 0,
         }
       ],
       "marzo": [
         {
           "numberOfContests": 0,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": ["", ""],
+          "technologyInvolved": [
+            "",
+            ""
+          ],
+          "typeOfContest": [
+            "",
+            ""
+          ],
           "importantContest": [
           ]
         }
@@ -28,15 +38,27 @@
       "aprile": [
         {
           "numberOfContests": 0,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": ["", ""]
+          "technologyInvolved": [
+            "",
+            ""
+          ],
+          "typeOfContest": [
+            "",
+            ""
+          ]
         }
       ],
       "maggio": [
         {
           "numberOfContests": 0,
-          "technologyInvolved": ["", "", ""],
-          "typeOfContest": [""]
+          "technologyInvolved": [
+            "",
+            "",
+            ""
+          ],
+          "typeOfContest": [
+            ""
+          ]
         }
       ],
       "giugno": [
@@ -57,7 +79,7 @@
       ],
       "luglio": [
         {
-        "numberOfContests": 0,
+          "numberOfContests": 0,
           "technologyInvolved": []
         }
       ],

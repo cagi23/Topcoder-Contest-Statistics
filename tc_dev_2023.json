@@ -11,30 +11,49 @@
       ],
       "febbraio": [
         {
-          "numberOfContests": 10,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": [""]
+          "numberOfContests": 17,
+          "technologyInvolved": [
+            "Azure Function (Python)",
+            "Querydsl",
+            "Java",
+            "react",
+            "vuejs"
+          ],
+          "typeOfContest": [
+            "skill-builder",
+            "python-functions",
+            "code-design",
+            "java-library",
+            "uml",
+            "ERD",
+            "SQL",
+            "practice-challenge"
+          ],
+          "importantContests": [
+            "https://www.topcoder.com/challenges/41860a0d-334d-477d-b460-2ee5873e5326"
+          ]
         }
       ],
       "marzo": [
         {
-          "numberOfContests": 0,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": ["", ""],
+          "numberOfContests": 27,
+          "technologyInvolved": ["java", "angular"],
+          "typeOfContest": ["prototype-conversion", "code-design"],
           "importantContest": [
           ]
         }
       ],
       "aprile": [
         {
-          "numberOfContests": 0,
-          "technologyInvolved": ["", ""],
+          "numberOfContests": 10,
+          "technologyInvolved": ["java", "angular"],
+          "typeOfContest": ["prototype-conversion", "code-design", "java service"],
           "typeOfContest": ["", ""]
         }
       ],
       "maggio": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 11,
           "technologyInvolved": ["", "", ""],
           "typeOfContest": [""]
         }
