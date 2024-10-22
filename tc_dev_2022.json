@@ -4,20 +4,27 @@
       "year": 2017,
       "gennaio": [
         {
-          "numberOfContests": 8,
+          "numberOfContests": 7,
           "technologyInvolved": [
             "react",
-            ""
+            "aws",
+            "java",
+            "spring-boot"
           ],
           "typeOfContest": [
             "skill-builder",
-            "api-development"
+            "api-development",
+            "rapid-development-match",
+            "ideation"
           ]
         }
       ],
       "febbraio": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 35,
+          "technologyInvolved": [
+
+            ]
         }
       ],
       "marzo": [
