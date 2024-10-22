@@ -4,23 +4,23 @@
       "year": 2024,
       "gennaio": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 5,
           "technologyInvolved": ["", ""],
           "typeOfContest": ["", ""]
         }
       ],
       "febbraio": [
         {
-          "numberOfContests": 0,
-          "technologyInvolved": ["", ""],
-          "typeOfContest": ["", ""]
+          "numberOfContests": 7,
+          "technologyInvolved": ["angular", ""],
+          "typeOfContest": ["architecture-proposal", "prototype-conversion"]
         }
       ],
       "marzo": [
         {
           "numberOfContests": 5,
           "technologyInvolved": ["python", "flask"],
-          "typeOfContest": ["fullstack app", ""],
+          "typeOfContest": ["fullstack-app", ""],
           "importantContest": [
             "https://community.topcrowd.net/challenge/view/yoN_NC_Vmo25FI?_gl=1*15wkt70*_ga*MTg3MjI2OTQwMC4xNzIyMzMxMDI5*_ga_ZYJTERS9DX*MTcyOTUyMzMzMy44Ny4xLjE3Mjk1MjM0NjguNTIuMC4w"
           ]
@@ -66,7 +66,7 @@
           "technologyInvolved": []
         }
       ],
-      "january": [
+      "agosto": [
         {
           "numberOfContests": 0,
           "technologyInvolved": [
@@ -77,12 +77,12 @@
       ],
       "settembre": [
         {
-          "numberOfContests": 2
+          "numberOfContests": 0
         }
       ],
       "ottobre": [
         {
-          "numberOfContests": 2
+          "numberOfContests": 0
         }
       ]
     }
