@@ -46,14 +46,22 @@
       ],
       "marzo": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 32,
           "technologyInvolved": [
-            "",
-            ""
+            "blockchain",
+            "smart-contract",
+            "react-native",
+            "karate-test-framework",
+            "angular",
+            "aws-athena",
+            "fintech"
           ],
           "typeOfContest": [
-            "",
-            ""
+            "idea-generation",
+            "bug-fix",
+            "prototype-conversion",
+            "skill-builder",
+            "rapid-development-match"
           ],
           "importantContest": [
           ]
@@ -61,40 +69,52 @@
       ],
       "aprile": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 32,
           "technologyInvolved": [
-            "",
-            ""
+            "blockchain",
+            "azure-devops",
+            "react-native",
+            "typescript",
+            "node.js"
           ],
           "typeOfContest": [
-            "",
-            ""
+            "rapid-development-match",
+            "content-editing",
+            "PoC",
+            "bug-hunt"
           ]
         }
       ],
       "maggio": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 24,
           "technologyInvolved": [
-            "",
+            "react.js",
             "",
             ""
           ],
           "typeOfContest": [
-            ""
+            "idea-challenge",
+            "api-design",
+            "prototype-challenge",
+            "skill-builder",
+            "rapid-development-match",
+            "content-editing"
           ]
         }
       ],
       "giugno": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 30,
           "technologyInvolved": [
-            "typescript"
+            "java",
+            "mysql",
+            "react.js"
           ],
           "typeOfContest": [
-            {
-              "": 0
-            }
+            "content-editing",
+            "prototype-conversion",
+            "idea-contest"
           ],
           "importantContest": [
             ""
@@ -103,17 +123,18 @@
       ],
       "luglio": [
         {
-          "numberOfContests": 0,
-          "technologyInvolved": []
+          "numberOfContests": 27,
+          "technologyInvolved": ["java", "react", "java libray", "junit", "querydsl"],
+          "typeOfContest": ["rapid-development-match", "code-design", "skill-builder"]
         }
       ],
       "agosto": [
         {
-          "numberOfContests": 0,
+          "numberOfContests": 38,
           "technologyInvolved": [
-            ""
+            "java","uml"
           ],
-          "typeOfContest": ""
+          "typeOfContest": ["code-design","java-service","prototype-conversion", "data-model"]
         }
       ],
       "settembre": [
