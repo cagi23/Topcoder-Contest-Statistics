@@ -132,7 +132,7 @@
         {
           "numberOfContests": 38,
           "technologyInvolved": [
-            "java","uml"
+            "java","uml","node.js","html", "css"
           ],
           "typeOfContest": ["code-design","java-service","prototype-conversion", "data-model"]
         }
