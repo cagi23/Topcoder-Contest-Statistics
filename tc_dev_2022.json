@@ -23,8 +23,25 @@
         {
           "numberOfContests": 35,
           "technologyInvolved": [
-
-            ]
+            "aws",
+            "angular",
+            "react",
+            "java",
+            "spring",
+            "hibernate",
+            "spring-boot",
+            "python",
+            "AWS-Lambda",
+            "AWS-Layers",
+            "AWS API Gateway"
+          ],
+          "typeOfContest": [
+            "rapid-development-match",
+            "prototype-conversion",
+            "stored-procedure-migration",
+            "RESTful API",
+            "DLL-conversion"
+          ]
         }
       ],
       "marzo": [
