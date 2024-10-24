@@ -153,12 +153,50 @@
       ],
       "ottobre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 64,
+          "technologyInvolved": [
+            "java",
+            "react.js",
+            "swift",
+            "html",
+            "css",
+            "node.js",
+            "stored-procedure-sql-server"
+          ],
+          "typeOfContest": [
+            "rapid-development-match",
+            "skill-builder",
+            "code-design",
+            "prototype-conversion",
+            "idea-generation"
+          ]
         }
       ],
       "novembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 70,
+          "technologyInvolved": [
+            "angular",
+            "java",
+            "mongodb",
+            "typescript",
+            "api",
+            "rest"
+          ],
+          "typeOfContest": [
+            "idea-generation",
+            "skill-builder",
+            "prototype-conversion"
+          ],
+          "importantContest": [
+            {
+              "name": "",
+              "url": ""
+            },
+            {
+
+            }
+          ]
         }
       ],
       "dicembre": [
