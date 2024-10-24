@@ -139,7 +139,16 @@
       ],
       "settembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 42,
+          "technologyInvolved": [
+            "java", "class-diagram","react.js"
+          ],
+          "typeOfContest": [
+            "rapid-development-match",
+            "skill-builder",
+            "code-design",
+            "prototype-conversion",
+          "idea-generation"]
         }
       ],
       "ottobre": [
