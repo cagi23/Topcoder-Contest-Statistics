@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    { "name": "Poseidon LPC",
+      "url": "",
+      "description": "",
+      "queryString": ""
+    },
+    { "name": "",
+      "url": "",
+      "description": "",
+      "queryString": ""
+    }
+  ]
+}

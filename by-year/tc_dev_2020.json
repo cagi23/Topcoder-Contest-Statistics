@@ -4,14 +4,14 @@
       "year": 2020,
       "gennaio": [
         {
-          "numberOfContests": 8,
-          "technologyInvolved": ["react", ""],
-          "typeOfContest": ["skill-builder", "api-development"]
+          "numberOfContests": 0,
+          "technologyInvolved": ["", ""],
+          "typeOfContest": ["", ""]
         }
       ],
       "febbraio": [
         {
-          "numberOfContests": 10,
+          "numberOfContests": 74,
           "technologyInvolved": ["", ""],
           "typeOfContest": [""]
         }
@@ -43,7 +43,6 @@
         {
           "numberOfContests": 0,
           "technologyInvolved": [
-            "typescript"
           ],
           "typeOfContest": [
             {
