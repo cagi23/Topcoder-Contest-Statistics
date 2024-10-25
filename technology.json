@@ -1,6 +1,9 @@
 {
-  "": [
+  "training": [
     "java",
-    "python"
+    "python",
+    "angular",
+    "react.js",
+    ""
   ]
 }

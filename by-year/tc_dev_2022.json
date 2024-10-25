@@ -181,12 +181,18 @@
             "mongodb",
             "typescript",
             "api",
-            "rest"
+            "rest",
+            "sql-server",
+            "dependency-graph-visualization",
+            "jest"
           ],
           "typeOfContest": [
             "idea-generation",
             "skill-builder",
-            "prototype-conversion"
+            "prototype-conversion",
+            "java-service",
+            "rest-api",
+            "unit-test"
           ],
           "importantContest": [
             {
@@ -201,7 +207,17 @@
       ],
       "dicembre": [
         {
-          "numberOfContests": 0
+          "numberOfContests": 32,
+          "technologyInvolved": [
+            "java",
+            "angular",
+            "react"
+          ],
+          "typeOfContest": [
+            "rapid-development-match",
+            "code-design",
+            "java-service"
+          ]
         }
       ]
     }

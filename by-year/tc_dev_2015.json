@@ -1,0 +1,109 @@
+{
+  "challenges": [
+    {
+      "year": 2015,
+      "gennaio": [
+        {
+          "numberOfContests": 140,
+          "technologyInvolved": [
+          ],
+          "typeOfContest": [
+          ]
+        }
+      ],
+      "febbraio": [
+        {
+          "numberOfContests": 0
+        }
+      ],
+      "marzo": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": [
+            "",
+            ""
+          ],
+          "typeOfContest": [
+            "",
+            ""
+          ],
+          "importantContest": [
+          ]
+        }
+      ],
+      "aprile": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": [
+            ""
+          ],
+          "typeOfContest": [
+            ""
+          ]
+        }
+      ],
+      "maggio": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": [
+            ""
+          ],
+          "typeOfContest": [
+            ""
+          ]
+        }
+      ],
+      "giugno": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": [
+            "typescript"
+          ],
+          "typeOfContest": [
+            {
+              "": 0
+            }
+          ],
+          "importantContest": [
+            ""
+          ]
+        }
+      ],
+      "luglio": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": []
+        }
+      ],
+      "agosto": [
+        {
+          "numberOfContests": 0,
+          "technologyInvolved": [
+            ""
+          ],
+          "typeOfContest": ""
+        }
+      ],
+      "settembre": [
+        {
+          "numberOfContests": 0
+        }
+      ],
+      "ottobre": [
+        {
+          "numberOfContests": 0
+        }
+      ],
+      "novembre": [
+        {
+          "numberOfContests": 0
+        }
+      ],
+      "dicembre": [
+        {
+          "numberOfContests": 0
+        }
+      ]
+    }
+  ]
+}
