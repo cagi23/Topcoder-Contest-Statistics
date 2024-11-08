@@ -1,0 +1,44 @@
+{
+  "endpoints": [
+    {
+      "users": [
+        {
+          "name": "auth0 signup",
+          "path": "",
+          "http-verb": ""
+        }
+
+
+      ],
+      "admin": [
+        {
+          "name": "auth0 signup",
+          "path": "",
+          "http-verb": ""
+        }
+
+      ],
+      "report": [
+
+
+      ]
+
+    }
+
+
+  ],
+  users
+  auth0 signup: POST /users/signup
+  titan signup: POST /users/me
+  get user me: GET /users/me
+  put user me: PUT /users/me
+  search users: POST /users/search,
+
+  admin
+  get admin me: GET /admins,
+
+  report
+  download cra report me: POST /reports/cra/me/latest
+  download cra report: POST /reports/cra/me/{id}
+get cra reports: GET /reports/cra/me
+}
