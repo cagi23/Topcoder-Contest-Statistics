@@ -2,6 +2,9 @@
   "projectNames": [
     "MA2 - Backend API in AWS lambda",
     "IDH - Backend API",
-    "Dev Portal - Backend API"
+    "Dev Portal - Backend API",
+    "Pioneer Event Streaming",
+    "FAA NOTAM",
+    "Full Stack Developer Evaluation for TaaS"
   ]
 }
